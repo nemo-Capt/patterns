@@ -1,4 +1,7 @@
-package nemocapt.interfacetest;
+package nemocapt.interfacetest.impl;
+
+import nemocapt.interfacetest.Car;
+import nemocapt.interfacetest.FilterCarsByCriteria;
 
 import java.util.List;
 

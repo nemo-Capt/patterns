@@ -14,7 +14,7 @@ public class Car {
     }
 
     public Car() {
-        wheels = 4;
+        this.wheels = 4;
     }
 
     public int getWheels() {
