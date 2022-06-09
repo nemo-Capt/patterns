@@ -13,6 +13,7 @@ public class FilterCarsByCriteriaVladVersionImpl implements FilterCarsByCriteria
 
     @Override
     public List<Car> filterCarsByColor(List<Car> cars, String color) {
+
         return cars.stream()
                 .filter(this.predicates.isThisColor(color))
                 .collect(Collectors.toList());
