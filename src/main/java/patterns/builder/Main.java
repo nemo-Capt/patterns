@@ -1,4 +1,4 @@
-package patterns.creational.builder;
+package patterns.builder;
 
 public class Main {
 
