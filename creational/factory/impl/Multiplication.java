@@ -1,6 +1,6 @@
-package patterns.factory.impl;
+package patterns.creational.factory.impl;
 
-import patterns.factory.Calculator;
+import patterns.creational.factory.Calculator;
 
 import java.util.Arrays;
 

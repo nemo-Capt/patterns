@@ -1,9 +1,9 @@
-package patterns.factory;
+package patterns.creational.factory;
 
-import patterns.factory.impl.Addition;
-import patterns.factory.impl.Division;
-import patterns.factory.impl.Multiplication;
-import patterns.factory.impl.Subtraction;
+import patterns.creational.factory.impl.Addition;
+import patterns.creational.factory.impl.Division;
+import patterns.creational.factory.impl.Multiplication;
+import patterns.creational.factory.impl.Subtraction;
 
 public class CalculatorFactory {
 
